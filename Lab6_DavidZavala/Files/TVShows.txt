@@ -1,0 +1,5 @@
+Nombre: The haunting of Hill House, Puntuacion: 9, Año: 2018, Tipo: Serie, Genero: Anime/
+Nombre: The Haunting of Bly Manor, Puntuacion: 7, Año: 2020, Tipo: Serie, Genero: Documental/
+Nombre: Haunted, Puntuacion: 8, Año: 2019, Tipo: Serie, Genero: Documental/
+Nombre: Travelers, Puntuacion: 7, Año: 2018, Tipo: Serie, Genero: Película/
+Nombre: Black Mirror, Puntuacion: 9, Año: 2019, Tipo: Serie, Genero: null/

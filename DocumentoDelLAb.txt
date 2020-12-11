@@ -1,0 +1,23 @@
+Que inciso le toco y en qué manera cree que eso mejorara su programa.
+- me tocó el tema de hilos y puedo implementarlo en el laboratorio para que sea un poco m´s
+  amigable con el usuario
+
+¿Cuál es el tema en el que más debilidad siente y por qué?
+- Siento que son los hilos ya que no los he practicado mucho
+
+Explicación de como planea incluir ese tema en el que siente debilidad dentro del
+laboratorio que se le fue asignado
+- Dado que lo mas importante y valioso que tenemos es el tiempo he decico usar un hilo para proporcionarle un reloj 
+  al usuario con el cual podrá controlar el tiempo que emplea en el uso del laboratorio
+
+Un comentario hacia su instructora hablando sinceramente sobre: Que cosas le
+gustaron y no le gustaron sobre los laboratorios que ella le asigno y que haría para
+mejorar la calidad de los mismo (por ejemplo: aumento en lacomplejidad/dificultad,
+reducción de extensión en los labs, etc)
+- Honestamente siento que los laboratorios son buenos para aprender e implementar lo antes aprendido 
+  creo que algo que pudiera mejorar los laboratorios seria el acortar la extension del laboratorio ya
+  que con esto uno como estudiante tendria una mejor claridad de lo que estamos haciendo y de terminarlos al 100%
+
+  En lo personal me hiciste falta este tri y si senti mas tranquilos tus labs me gustan tus temas y me divierto con
+  las mamadas de cerebro que me doy te quiero Clau cuidate mucho 
+

@@ -1,0 +1,6 @@
+Nombre: Sinister, Puntuacion: 9, Año: 2012, Tipo: Película, Genero: Documental/
+Nombre: Sinister 2, Puntuacion: 9, Año: 2015, Tipo: Película, Genero: Documental/
+Nombre: Get Out, Puntuacion: 6, Año: 2017, Tipo: Película, Genero: Documental/
+Nombre: The Orphanage, Puntuacion: 7, Año: 2007, Tipo: Película, Genero: Documental/
+Nombre: The innocents, Puntuacion: 5, Año: 1961, Tipo: Película, Genero: Documental/
+Nombre: The Others, Puntuacion: 5, Año: 2001, Tipo: Película, Genero: Documental/
